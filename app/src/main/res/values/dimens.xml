@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splashActivityPadding">50dp</dimen>
+    <dimen name="ivSplashHeight">400dp</dimen>
+    <dimen name="splashTextSize">50sp</dimen>
+    <dimen name="nvWidth">162dp</dimen>
+    <dimen name="nvHeight">240dp</dimen>
+    <dimen name="paddingAbout">20dp</dimen>
+</resources>

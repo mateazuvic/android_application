@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/drawable/ic_menu.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/drawable/navigation_text_color.xml" value="0.2703125" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/layout/activity_host.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/layout/activity_item_pager.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/layout/activity_splash_screen.xml" value="0.23052536231884058" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/layout/fragment_about.xml" value="0.24139492753623187" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/layout/fragment_items.xml" value="0.16032608695652173" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/layout/item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/layout/item_pager.xml" value="0.24728260869565216" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/layout/navigation_header.xml" value="0.24139492753623187" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/menu/host_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Teodor/Desktop/ALGEBRA 5/KOTLIN - ANDROID/Vjezbe-projekt/PROJEKT/app/src/main/res/menu/navigation_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

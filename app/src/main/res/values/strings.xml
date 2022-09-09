@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My_application</string>
+    <string name="please_wait">Please wait</string>
+    <string name="no_internet">No internet connection</string>
+
+    <string name="items">Items</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="exit_app_question">Really exit app</string>
+    <string name="delete">Delete</string>
+    <string name="sure">"Are you sure to delete "</string>
+    <string name="cancel">Cancel</string>
+</resources>
